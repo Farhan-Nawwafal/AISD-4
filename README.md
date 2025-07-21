@@ -27,9 +27,9 @@ Untuk mengatasi hal ini, kami telah menyediakan bagian akhir program yang secara
 ---
 
 ## Anggota Kelompok
-1. 
-2. 
-3. 
+1. Muhammad Ikhsan Fadillah - 10123134
+2. Muhammad Faishal Rahmani - 10123135
+3. Rizqi Akbar Fadillah - 10123151
 4. Farhan Nawwafal Pramudia - 10123470
 
 ## Struktur File
